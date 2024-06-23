@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slyfox29
-- 👀 I’m interested in Haking and Web development
-- 🌱 I’m currently learning PHP, Networking, and advanced Python
+- 👀 I’m interested in Haking, Web development and Docker
+- 🌱 I’m currently learning PHP, Networking, advanced Python, and Docker
 - 📫 How to reach me henryjayq@icloud.com
 - ⚡ Fun fact: I am a boring person
 
